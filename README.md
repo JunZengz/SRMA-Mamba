@@ -12,6 +12,8 @@ conda activate SRMA-Mamba
 ## Install Dependencies
 ```    
 pip install -r requirements.txt
+cd selective_scan && pip install .
+pip install triton==2.2.0
 ```
 
 ## Download Dataset
