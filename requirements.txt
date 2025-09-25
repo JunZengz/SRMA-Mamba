@@ -15,5 +15,4 @@ tokenizers==0.15.2
 transformers==4.36.2
 timm==0.6.12
 fvcore==0.1.5.post20221221
-triton==2.2.0
 nibabel==5.3.2
